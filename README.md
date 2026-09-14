@@ -14,7 +14,8 @@ Designed to deliver the authentic, sleek GitHub dark mode aesthetic with careful
 
 ## 📸 Preview
 
-![GitHub Dark Theme for Veyak](screenshot.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15bcde88-3d31-4250-89d9-115c791e0d4d" />
+
 
 ---
 
