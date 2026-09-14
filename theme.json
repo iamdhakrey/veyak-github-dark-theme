@@ -3,11 +3,11 @@
   "id": "github-dark",
   "name": "GitHub Dark",
   "version": "1.0.0",
-  "description": "Official GitHub Dark palette with Primer design tokens",
+  "description": "Official GitHub Dark palette",
   "author": "GitHub",
   "repository": "https://github.com/iamdhakrey/-veyak-github-syntax-dark",
   "license": "MIT",
-  "tags": ["github", "dark", "official", "primer"],
+  "tags": ["github", "dark"],
   "variant": "dark",
   "isBuiltin": false,
   "tokens": {
